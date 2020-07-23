@@ -1,2 +1,3 @@
 # Bert-Model
-Contains the implementation of BERT on review rating.
+Contains the implementation of BERT for sentiment analysis on Hotel reviews
+
